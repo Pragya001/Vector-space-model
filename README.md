@@ -1,6 +1,7 @@
 The text is processed and the result is stored separately for both Language Hindi & English for all following subtasks: 
 
 Implementation (Steps):
+
 (i) Tokenization is performed followed by pruning. Words and its frequency are stored in a text file for both language.
 (Extraction of words only, No numbers or special charaters during tokenization.)
 
